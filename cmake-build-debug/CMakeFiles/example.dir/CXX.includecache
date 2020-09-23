@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rafaelgonzalezmunoz/Projects/c++/example/condiciones.cpp
+iostream
+/Users/rafaelgonzalezmunoz/Projects/c++/example/iostream
+
+/Users/rafaelgonzalezmunoz/Projects/c++/example/main.cpp
+iostream
+-
+
